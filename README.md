@@ -1,0 +1,2 @@
+# kaggle_ultrasound_nerve_segmentation
+A kaggle competition
